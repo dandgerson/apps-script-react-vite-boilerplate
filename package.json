@@ -6,7 +6,8 @@
   "scripts": {
     "glogin": "clasp login",
     "glogout": "clasp logout",
-    "gcreate": "clasp create --title 'react-app-script-project' --rootDir ./apps-script",
+    ".gcreate": "clasp create --title 'react-app-script' --rootDir ./gas",
+    "gcreate": "clasp create",
     "gpull": "clasp pull",
     "gpush": "clasp push",
     "gstart": "clasp push --watch",
