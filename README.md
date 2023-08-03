@@ -1,5 +1,4 @@
-# React app with clasp
+# React + Vite + Clasp
 
-boilerplate build on article https://max-makhrov.medium.com/apps-script-sidebar-part-1-cooking-svelte-material-clasp-b73b54d2df84
-
-`gas` - if for Google Apps Script
+The problem that Apps Script not allowed assets, so we need inline all the assets with bundler
+The Vite not inline SVG files
